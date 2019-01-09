@@ -20,5 +20,5 @@
 
 ## 开发计划
 
-[ ] 基础像素化组件
+1. 基础像素化组件
   参考论文 [Pixelated Image Abstraction](https://gfx.cs.princeton.edu/pubs/Gerstner_2012_PIA/index.php)
