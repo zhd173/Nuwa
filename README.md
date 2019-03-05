@@ -1,7 +1,7 @@
 # Nuwa 女娲
 [![Built with Spacemacs](https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg)](http://spacemacs.org)
 
-[WIP] 一款复古像素风格游戏引擎，专注综合性艺术创作。
+**WIP** 复古像素风格游戏引擎
 
 ## 主要模块
 
